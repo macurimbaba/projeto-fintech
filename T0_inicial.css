@@ -1,0 +1,63 @@
+* {
+    font-family: sans-serif, Arial, Helvetica,;
+}
+
+body {
+    background-image: url(./images/outras/imagem1.jpg);
+    background-repeat: no-repeat;
+    background-size: auto;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #ffffff;
+}
+
+div p {
+    color: #66d3e3;
+}
+
+input:focus {
+    background-color: #87cefa;
+}
+
+p {
+    color: #052c55;
+}
+
+a {
+    color: #000000;
+}
+
+.corpo-img {
+    margin-top: 100px;
+    margin-left: 605px;
+}
+
+.corpo {
+    margin-top: 40px;
+    margin-left: 600px;
+}
+
+.corpo-botton {
+    margin-top: 40px;
+    margin-left: 642px;
+}
+
+
+.bt {
+    border: 1px solid #052c55;
+    border-radius: 5px;
+    display: inline-block;
+    cursor: pointer;
+    font-family: sans-serif;
+    font-weight: normal;
+    font-size: 13px;
+    padding: 6px 10px;
+    text-decoration: none;
+    border-radius: 10px;
+    margin-top: 5px;
+    margin-left: 40px;
+}
+
+
+
